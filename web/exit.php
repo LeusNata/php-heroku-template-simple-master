@@ -4,4 +4,4 @@ session_start();
 //обнуляем сессию
 session_destroy();
 //перенаправляем
-header('Location: /index.php');
+header('Location: index.php');
